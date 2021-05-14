@@ -1,0 +1,179 @@
+<h2 class="uk-h3 uk-margin-remove-bottom">Import CSV Files</h2>
+<p class="uk-margin-large-bottom uk-margin-small-top">What would you like to upload today?</p>
+
+	
+	
+			
+<div class="uk-child-width-expand@s " uk-grid>
+	<div>
+
+		<article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Todo.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+								<li class="uk-active"><a href="#" class="route">Activities</a></li>
+								<li><a href="#function/import/Upload Events" class="route">Upload Events</a></li>
+								<li><a href="#function/import/Upload Phone Calls" class="route">Upload Phone Calls</a></li>
+								<li><a href="#function/import/Upload Tasks" class="route">Upload Tasks</a></li>
+							</ul>
+						</div>
+					</header>
+				</article>
+
+
+		<article class="uk-comment uk-margin-medium-bottom">
+			<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+				<div class="uk-width-auto">
+					<img class="uk-comment-avatar" src="img/Edit Property.png"  alt="">
+				</div>
+				<div class="uk-width-expand">
+					<ul class="uk-nav uk-nav-default">
+						<li class="uk-active"><a href="#">Relationships</a></li>
+						<li><a href="#function/import/Upload Customer" class="route">Upload Customer</a></li>
+						<li><a href="#function/import/Upload Contacts" class="route">Upload Contacts</a></li>
+						<li><a href="#function/import/Upload Customer & Contacts" class="route">Upload Customer & Contacts</a></li>
+						<li><a href="#function/import/Upload Leads & Contacts" class="route">Upload Leads & Contacts</a></li>
+						<li><a href="#function/import/Upload Groups" class="route">Upload Groups</a></li>
+						<li><a href="#function/import/Upload Leads" class="route">Upload Leads</a></li>
+					</ul>
+				</div>
+			</header>
+		</article>
+
+		
+	<!-- 	<article class="uk-comment uk-margin-medium-bottom">
+			<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+				<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Picture.png"  alt="">
+				</div>
+				<div class="uk-width-expand">
+					<ul class="uk-nav uk-nav-default">
+						<li class="uk-active"><a href="#function/import" class="route">Image gallery</a></li>
+						<li><a href="#function/importimages/upload">Upload images</a></li>
+						<li><a href="#function/importimages/gallery">Manage galleries</a></li>
+						<li><a href="#function/importimages/albums">Manage albums</a></li>
+					</ul>
+				</div>
+			</header>
+		</article> -->
+		
+					  				
+				<article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Cash Register.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+									<li class="uk-active"><a href="#" class="route">Transactions</a></li>
+									<li><a href="#function/import/Upload Advanced Intercompany Journal Entry" class="route">Upload Advanced Intercompany Journal Entry</a></li>
+									<li><a href="#function/import/Upload Cash Sale" class="route">Upload Cash Sale</a></li>
+									<li><a href="#function/import/Upload Check" class="route">Upload Check</a></li>
+									<li><a href="#function/import/Upload Credit Card Charge" class="route">Upload Credit Card Charge</a></li>
+									<li><a href="#function/import/Upload Credit Card Refund" class="route">Upload Credit Card Refund</a></li>
+									<li><a href="#function/import/Upload Credit Card Memo" class="route">Upload Credit Card Memo</a></li>
+									<li><a href="#function/import" class="route">Upload Customer Payment</a></li>
+									<li><a href="#function/import" class="route">Upload Estimate</a></li>
+									<li><a href="#function/import" class="route">Upload Inventory Adjustment</a></li>
+									<li><a href="#function/import" class="route">Upload Inventory Transfer</a></li>
+									<li><a href="#function/import" class="route">Upload Invoice</a></li>
+									<li><a href="#function/import" class="route">Upload Journal Entry</a></li>
+									<li><a href="#function/import" class="route">Upload Purchase Order</a></li>
+									<li><a href="#function/import" class="route">Upload Return Authorization</a></li>
+									<li><a href="#function/import" class="route">Upload Sales Order</a></li>
+									<li><a href="#function/import" class="route">Upload Transfer Order</a></li>
+									<li><a href="#function/import" class="route">Upload Vendor Bill</a></li>
+									<li><a href="#function/import" class="route">Upload Vendor Credit</a></li>
+									<li><a href="#function/import" class="route">Upload Vendor Payment</a></li>
+							</ul>
+						</div>
+					</header>
+				</article>
+			  
+
+		
+			</div>
+			  <div>
+			  <article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Ledger.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+								<li class="uk-active"><a href="#function/import" class="route">Accounting</a></li>
+								<li><a href="#function/import" class="route">Upload Chart of Accounts</a></li>
+								<li><a href="#function/import" class="route">Upload Consolidated Exchange Rate</a></li>
+								<li><a href="#function/import" class="route">Upload Currency Exchange Rates</a></li>
+								<li><a href="#function/import" class="route">Upload Item Collection</a></li>
+							</ul>
+						</div>
+					</header>
+				</article>
+
+
+				<article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Gird.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+								<li class="uk-active"><a href="#function/import" class="route">Items</a></li>
+								<li><a href="#function/import" class="route">Upload Inventory Item</a></li>
+								<li><a href="#function/import" class="route">Upload Package Item</a></li>
+								<li><a href="#function/import" class="route">Upload Item Group</a></li>
+								<li><a href="#function/import" class="route">Upload Non Inventory Item Purchase</a></li>
+								<li><a href="#function/import" class="route">Upload Non Inventory Item Resale</a></li>
+
+								<li><a href="#function/import" class="route">Upload Non Inventory Item for Sale</a></li>
+							</ul>
+						</div>
+					</header>
+				</article>
+				
+				
+			  
+				<!-- <article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Overtime.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+								<li class="uk-active"><a href="#function/import" class="route">Events calendar</a></li>
+								<li><a href="#function/importevents/calendar">Calendar overview</a></li>
+								<li><a href="#function/import" class="route">Add a new event</a></li>
+								<li><a href="#function/import" class="route">Appointments</a></li>
+							</ul>
+						</div>
+					</header>
+				</article>
+				
+				<article class="uk-comment uk-margin-medium-bottom">
+					<header class="uk-comment-hea7der uk-grid-medium uk-flex-top" uk-grid>
+						<div class="uk-width-auto">
+							<img class="uk-comment-avatar" src="img/Services.png"  alt="">
+						</div>
+						<div class="uk-width-expand">
+							<ul class="uk-nav uk-nav-default">
+								<li class="uk-active"><a href="#function/import" class="route">Elements</a></li>
+								<li><a href="#function/importelements/buttons">Buttons</a></li>
+								<li><a href="#function/importelements/badges">Labels & Badges</a></li>
+								<li><a href="#function/importelements/cards">Cards and panels</a></li>
+								<li><a href="#function/importelements/icons">Icons</a></li>
+								<li><a href="#function/importelements/navs">Navigation menus</a></li>
+								<li><a href="#function/importelements/alerts">Alerts</a></li>
+							</ul>
+						</div>
+					</header>
+				</article> -->
+
+			
+</div>
+
+			
+</div>
